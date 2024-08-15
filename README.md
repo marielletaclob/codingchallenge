@@ -27,7 +27,7 @@ https://www.python.org/
 ## Usage
 1. **Run the script:**
 ```bash
-python number_to_words.py
+python numbers_to_words.py
 ```
 2. **Input a number:**
 Enter a number with no more than 6 digits, uninterrupted by spaces or commas.
