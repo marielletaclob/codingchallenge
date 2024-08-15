@@ -33,7 +33,7 @@ def number_to_words(num):
 
 # Main loop
 while True:
-    num = input("Enter an uninterrupted number without spaces or commas, or 'q' to quit): ")
+    num = input("Enter a 6 digit number, or 'q' to quit): ")
 
     if num.lower() == 'q':
         print("Exiting program. Adieu!")
@@ -42,4 +42,4 @@ while True:
     if num.isdigit() and 0 <= int(num) < 1000000:
         print("Your number is:", number_to_words(int(num)))
     else:
-        print("Invalid input! Please enter a number with up to 6 digits.")
+        print("Invalid input! Please enter a number with up to 6 digits without spaces or commas.")
