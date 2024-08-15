@@ -1,7 +1,7 @@
 # Numbers to Words Converter
 
 ## Description
-This Python program converts a number (up to 6 digits) into its corresponding English word representation. For example, if you enter `54321`, the output will be `Fifty Four Thousand Three Hundred Twenty One`.
+This Python script converts a number (up to 6 digits) into its English word representation. For example, if you input `54321`, it will output `Fifty Four Thousand Three Hundred Twenty One`. The script also allows the user to keep entering numbers until they decide to quit.
 
 ## Requirements
 - Python 3.x
