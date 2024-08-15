@@ -87,7 +87,7 @@ The program’s error handling for invalid inputs is basic. It primarily checks 
 **3. No User Customization:**
 The program does not offer customization options for output format or language. All outputs are in a fixed format, which might not suit all user needs or preferences.
 
-##Author
-Marielle Taclob
+## Author
+*Marielle Taclob*
 Contact thru email: marielletaclob2@gmail.com
 
